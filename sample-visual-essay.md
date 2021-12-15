@@ -113,9 +113,9 @@ Present-day scholars like Matthias Hayek believed Japan’s immediate interest a
 
 <param ve-image 
        label="Book of Nature" 
-       description="Japanese pharmacopeiar" 
+       description="Japanese pharmacopeia" 
        license="public domain" 
-       url="https://i0.wp.com/historyofknowledge.net/wp-content/uploads/2018/05/cocoa-jap.jpg?resize=656%2C300&ssl=1">
+       url="https://thumbs.worthpoint.com/zoom/images4/1/0815/02/vintage-japanese-book-nature_1_b4f5a3c091fed1a09652f39ee92ea4f9.jpg">
        
 ## Comparing Ancient Texts  
 
