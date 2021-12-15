@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Li Shizhen's Impact on the _Bencao Gangmu_" 
+       title="Li Shizhen's Impact on the Bencao Gangmu" 
        author="Joey Hayes"
        banner="https://upload.wikimedia.org/wikipedia/commons/d/d9/Li_Shizhen.jpg" 
        layout="vertical">
@@ -18,7 +18,7 @@ Many historians and scientists alike have gone back and forth, debating on wheth
 <param ve-entity eid="Q816658"> <!-- Bencao Gangmu -->
 <param ve-entity eid="Q698925"> <!-- Li Shizhen -->
 
-This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+<!-- This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org). -->
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
@@ -58,10 +58,10 @@ Li’s pharmacopeia, the _Bencao gangmu_ had several drafts by the late 1570s; t
 
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Bencao gangmu" 
+       description="Pages from the _Bencao gangmu_" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://commons.wikimedia.org/wiki/File:Bencao_Gangmu_33-36.jpg">
        
 ## Wang Shizhen
 
@@ -154,17 +154,17 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 # References
 
-[^1]: [Álvarez, José Antonio Cantón. “Globalisation Interrupted? The Case of Opium in the Circulation of Medical Knowledge in Ming Dynasty China.” Journal of the Economic and Social History of the Orient 60, no. 4 (2017): 524–48.] http://www.jstor.org/stable/26426433.
-[^2]: [Barrett, Penelope, Andrew Flower, and Vivienne Lo. “What’s past is prologue: Chinese medicine and the treatment of recurrent urinary tract infections.” Journal of Ethnopharmacology no. 167 (2015): 86-96.] https://doi.org/10.1016/j.jep.2014.11.014. 
-[^3]: [“Ben Cao Gang Mu (《本草纲目》 Compendium of Materia Medica): United Nations Educational, Scientific and Cultural Organization.” Memory of the World, United Nations Educational, Scientific and Cultural Organization, 2010.] http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/register/full-list-of-registered-heritage/registered-heritage-page-1/ben-cao-gang-mu-compendium-of-materia-medica/.
-[^4]: [Hammond, Kenneth J. “Wang Shizhen and Li Shizhen: Archaism and Early Scientific Thought in Sixteenth-Century China.” In Antiquarianism and Intellectual Life in Europe and China, 1500-1800, 234–49. University of Michigan Press, 2012.] http://www.jstor.org/stable/10.3998/mpub.3992087.14.
-[^5]: [Hayek, Matthias. “One the Reception and Uses of Li Shizhen’s Classified Materia Medica (Bencao gangmu) in 17th-century Japan: Test, Categories, Pictures.” Studies in Japanese Literature and Culture, no. 4 (March 2021): 95-122.] https://kokubunken.repo.nii.ac.jp/?action=repository_action_common_download&item_id=4208&item_no=1&attribute_id=22&file_no=1.
-[^6]: [Horiuchi, Annick. “Naturalizing Li Shizhen’s Bencao gangmu in Early-modern Japan: The Cases of Honcho shokkan, Yamato honzo, and Wakan sansai zue.” Studies in Japanese and Culture no. 4 (March 2021): 123-146.] https://www.academia.edu/48897607/Naturalizing_Li_Shizhen_s_Bencao_gangmu_in_Early_modern_Japan_The_Cases_of_Honch%C5%8D_shokkan_Yamato_honz%C5%8D_and_Wakan_sansai_zue.
-[^7]: [Jivkova, Kat. “The Impacts of Li Shizhen's Bencao Gangmu.” Retrospect Journal, 18 Apr. 2021.] https://retrospectjournal.com/2021/04/11/the-impacts-of-li-shizhens-bencao-gangmu/. 
-[^8]: [Li, Shizhen. “Compendium of Materia Medica.” WDL RSS, Library of Congress, 1573.] https://www.wdl.org/en/item/4678/.
-[^9]: [Metailie, Georges. “Sources for Modern Botany in China during Qing Dynasty.” Japan Review, no. 4 (1993): 241–49.] http://www.jstor.org/stable/25790931.
-[^10]: [Nappi, Carla. “Bolatu’s Pharmacy Theriac in Early Modern China.” Early Science and Medicine 14, no. 6 (2009): 737–64.] http://www.jstor.org/stable/20617830.
-[^11]: [Nappi, Carla S. The Monkey and the Inkpot : Natural History and Its Transformations in Early Modern China. Cambridge: Harvard University Press, 2009. ProQuest Ebook Central.] https://ebookcentral.proquest.com/lib/csun/detail.action?docID=3300842# 
-[^12]:[Theobald, Ulrich. “Bencao Gangmu 本草綱目.” ChinaKnowledge.de, 23 Oct. 2010.] http://www.chinaknowledge.de/Literature/Science/bencaogangmu.html. 
-[^13]:[Touwaide, Alain and Emanuela Appetiti. “Searching for Chinese Medicinal Plants in Greek Classical Medicin: A First Approach.” Chinese Medicine and Culture, vo.1, issue 1 (April-June 2018).] https://cmaconweb.org/article.asp?issn=2589-9627;year=2018;volume=1;issue=1;spage=40;epage=45;aulast=Touwaide;type=0. 
-[^14]:[Suh, Souyoung. “Herbs of Our Own Kingdom: Layers of the ”Local” in the Materia Medica of Early Choson Korea,” Asian Medicine 4 (2008) 395-422.]
+[^1]: Álvarez, José Antonio Cantón. “Globalisation Interrupted? The Case of Opium in the Circulation of Medical Knowledge in Ming Dynasty China.” Journal of the Economic and Social History of the Orient 60, no. 4 (2017): 524–48. http://www.jstor.org/stable/26426433.
+[^2]: Barrett, Penelope, Andrew Flower, and Vivienne Lo. “What’s past is prologue: Chinese medicine and the treatment of recurrent urinary tract infections.” Journal of Ethnopharmacology no. 167 (2015): 86-96. https://doi.org/10.1016/j.jep.2014.11.014. 
+[^3]: “Ben Cao Gang Mu (《本草纲目》 Compendium of Materia Medica): United Nations Educational, Scientific and Cultural Organization.” Memory of the World, United Nations Educational, Scientific and Cultural Organization, 2010. http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/register/full-list-of-registered-heritage/registered-heritage-page-1/ben-cao-gang-mu-compendium-of-materia-medica/.
+[^4]: Hammond, Kenneth J. “Wang Shizhen and Li Shizhen: Archaism and Early Scientific Thought in Sixteenth-Century China.” In Antiquarianism and Intellectual Life in Europe and China, 1500-1800, 234–49. University of Michigan Press, 2012. http://www.jstor.org/stable/10.3998/mpub.3992087.14.
+[^5]: Hayek, Matthias. “One the Reception and Uses of Li Shizhen’s Classified Materia Medica (Bencao gangmu) in 17th-century Japan: Test, Categories, Pictures.” Studies in Japanese Literature and Culture, no. 4 (March 2021): 95-122. https://kokubunken.repo.nii.ac.jp/?action=repository_action_common_download&item_id=4208&item_no=1&attribute_id=22&file_no=1.
+[^6]: Horiuchi, Annick. “Naturalizing Li Shizhen’s Bencao gangmu in Early-modern Japan: The Cases of Honcho shokkan, Yamato honzo, and Wakan sansai zue.” Studies in Japanese and Culture no. 4 (March 2021): 123-146. https://www.academia.edu/48897607/Naturalizing_Li_Shizhen_s_Bencao_gangmu_in_Early_modern_Japan_The_Cases_of_Honch%C5%8D_shokkan_Yamato_honz%C5%8D_and_Wakan_sansai_zue.
+[^7]: Jivkova, Kat. “The Impacts of Li Shizhen's Bencao Gangmu.” Retrospect Journal, 18 Apr. 2021. https://retrospectjournal.com/2021/04/11/the-impacts-of-li-shizhens-bencao-gangmu/. 
+[^8]: Li, Shizhen. “Compendium of Materia Medica.” WDL RSS, Library of Congress, 1573. https://www.wdl.org/en/item/4678/.
+[^9]: Metailie, Georges. “Sources for Modern Botany in China during Qing Dynasty.” Japan Review, no. 4 (1993): 241–49. http://www.jstor.org/stable/25790931.
+[^10]: Nappi, Carla. “Bolatu’s Pharmacy Theriac in Early Modern China.” Early Science and Medicine 14, no. 6 (2009): 737–64. http://www.jstor.org/stable/20617830.
+[^11]: Nappi, Carla S. The Monkey and the Inkpot : Natural History and Its Transformations in Early Modern China. Cambridge: Harvard University Press, 2009. ProQuest Ebook Central.] https://ebookcentral.proquest.com/lib/csun/detail.action?docID=3300842# 
+[^12]:Theobald, Ulrich. “Bencao Gangmu 本草綱目.” ChinaKnowledge.de, 23 Oct. 2010. http://www.chinaknowledge.de/Literature/Science/bencaogangmu.html. 
+[^13]:Touwaide, Alain and Emanuela Appetiti. “Searching for Chinese Medicinal Plants in Greek Classical Medicin: A First Approach.” Chinese Medicine and Culture, vo.1, issue 1 (April-June 2018). https://cmaconweb.org/article.asp?issn=2589-9627;year=2018;volume=1;issue=1;spage=40;epage=45;aulast=Touwaide;type=0. 
+[^14]:Suh, Souyoung. “Herbs of Our Own Kingdom: Layers of the ”Local” in the Materia Medica of Early Choson Korea,” Asian Medicine 4 (2008) 395-422.
