@@ -56,7 +56,7 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
        url="https://www.tmrjournals.com/public/articleHTML/TMR/TMR20200222166/003/alternativeImage/2413-3973-05-03-003-F005.jpg">
        
  ## Map
-Labeled are key locations in Li's life. These locations include: Li's hometown, Wuchan and Beijing where he worked, Nanjing is where he met Wang Shizhen and his bencao was published, and finally his deathplace. 
+Labeled are key locations in Li's life. These locations include: Li's hometown, Wuchan and Beijing where he worked, Nanjing is where he met Wang Shizhen and his bencao was published, and finally his deathplace. Link to Map: https://geojson.io/#map=6/35.221/116.359
 
 <param ve-map center="35.818, 114.543" zoom="6" stroke-width="0" show-labels>
 <param ve-map-layer geojson url="https://gist.github.com/abf08811e03a1d04c47e20849ea96c5a.git" title="Li's travels" active> 
