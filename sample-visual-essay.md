@@ -50,10 +50,10 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
 <param ve-entity eid="Q1014420"> <!-- Wuchang -->
 
 <param ve-image 
-       label="Li Shizhen" 
-       description="Painting of Li Shizhen" 
+       label="Imperial Temple" 
+       description="Painting of an Imperial Temple" 
        license="public domain" 
-       url="https://archive.shine.cn/newsimage//NewsImage/2011/2011-07/2011-07-03/20110703_476008_01.jpg">
+       url="https://www.tmrjournals.com/public/articleHTML/TMR/TMR20200222166/003/alternativeImage/2413-3973-05-03-003-F005.jpg">
        
  ## Map
 Labeled are key locations in Li's life. These locations include: Li's hometown, Wuchan and Beijing where he worked, Nanjing is where he met Wang Shizhen and his bencao was published, and finally his deathplace. 
@@ -80,7 +80,7 @@ Wang’s relationship with Li had the biggest impact on the publication of the _
        label="Ancient City" 
        description="Painting of an ancient city" 
        license="public domain" 
-       url="https://www.mpiwg-berlin.mpg.de/sites/default/files/styles/content_central_image/public/2018-06/qing_pharmacy_1_jpg.jpg?itok=q6W0iKIZ">
+       url="https://textimgs.s3.amazonaws.com/boundless-world-history/sbmzrmjzr5gkuzqw7fhp.jpe">
 
 ## Globalization
 
