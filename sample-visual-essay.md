@@ -19,8 +19,12 @@ Many historians and scientists alike have gone back and forth, debating on wheth
 <param ve-entity eid="Q698925"> <!-- Li Shizhen -->
 
 <!-- This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org). -->
+
 <param ve-image 
-      manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       label="Li Shizhen" 
+       description="Painting from the Ming Dynasty" 
+       license="public domain" 
+       url="https://ichef.bbci.co.uk/images/ic/640x360/p07trc26.jpg">
 
 # Li Shizhen
 
@@ -32,12 +36,16 @@ Li Shizhen, or Li Dongbi, was born in 1518 in Qizhou, Huguang (today’s Qichun,
 <param ve-entity eid="Q9903"> <!-- Ming Dynasty -->
 <param ve-entity eid="Q1199313"> <!-- Qichun -->
 
-
 <param ve-image 
        label="Li Shizhen" 
        description="Painting of Li Shizhen" 
        license="public domain" 
        url="https://mtchina.it/blog/wp-content/uploads/2020/11/Li-Shizhen-Sage-of-Medicine-and-Pharmacy-who-is-Li-shizhen-article-1574298848.jpg">
+       
+## Map
+
+Here is the region Li grew up in and where he comes back to after he serves in Beijing. 
+<param ve-map center="Q1199313" zoom="11" prefer-geojson>       
        
 ## Work
  
@@ -50,7 +58,7 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
        label="Li Shizhen" 
        description="Painting from the Ming Dynasty" 
        license="public domain" 
-       url="https://ichef.bbci.co.uk/images/ic/640x360/p07trc26.jpg">
+       url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnx7Tpbypp9LaZJBbgQ36td0eKF075n73Sw&usqp=CAU">
 
 # Bencao Gangmu
 
@@ -77,11 +85,12 @@ Wang’s relationship with Li had the biggest impact on the publication of the _
 Chinese medicine, and specifically Li’s bencao, influenced future generations to take different approaches to medicine and medicinal practices. From Zhao Xuemin in China who focuses on local medicinal knowledge, to scholars in Japan and Korea who focus on creating their local medicinal pharmacopeia and expanding their local herbal knowledge, Li’s _Bencao gangmu_ lit a fire under young scholars. Japan and Korea were two countries that relied on traditional Chinese medicine more than their own. [^14] After the publication of Li’s pharmacopeia, Japan and Korea were inspired to further their medical practices by focusing on local materials and creating pharmacopeias based on their local medical knowledge and materials. Although both countries heavily relied on Chinese knowledge, Li’s and many other medical scholars’ work influenced them to create their own presence. 
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Chinese Emperor" 
+       description="Chinese Emperor on a boat" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
-       
+       url="https://www.uschamber.com/assets/images/jiajing_emperor_on_his_state_barge.jpg">
+
+
 ### _Korea_ 
 King Sejong’s reign (r. 1418-1450) led to an even further development of Korean pharmacopeias by creating “materia medica for offering to the king,” which led to the development of the herbal drug market and promoted local botanicals. [^14] In the end, Korean medicinal education came to a halt as Ming China started to release a lot of medical material. King Seongjong (r. 1469-1494) in Korea, used state projects to promote local botanicals that had begun to decline. [^14] His interest in Daoism and Neo-Confucian led to an even greater decline of local Korean medicine, and once again relied on traditional Chinese medicine because it followed Neo-Confucian ideals. 
 
