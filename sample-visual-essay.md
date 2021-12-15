@@ -20,7 +20,7 @@ Many historians and scientists alike have gone back and forth, debating on wheth
 
 <!-- This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org). -->
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+      manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 # Li Shizhen
 
@@ -35,9 +35,9 @@ Li Shizhen, or Li Dongbi, was born in 1518 in Qizhou, Huguang (today’s Qichun,
 
 <param ve-image 
        label="Li Shizhen" 
-       description="Sculpture of Li Shizhen" 
+       description="Painting of Li Shizhen" 
        license="public domain" 
-       url="https://commons.wikimedia.org/wiki/File:Li_Shizhen,_Lingsheng_Temple.jpg">
+       url="https://mtchina.it/blog/wp-content/uploads/2020/11/Li-Shizhen-Sage-of-Medicine-and-Pharmacy-who-is-Li-shizhen-article-1574298848.jpg">
        
 ## Work
  
@@ -47,31 +47,30 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
 <param ve-entity eid="Q1014420"> <!-- Wuchang -->
 
 <param ve-image 
-       label="Departured Herald" 
+       label="Li Shizhen" 
        description="Painting from the Ming Dynasty" 
        license="public domain" 
-       url="https://commons.wikimedia.org/wiki/File:Departure_Herald-Ming_Dynasty.jpg">
+       url="https://ichef.bbci.co.uk/images/ic/640x360/p07trc26.jpg">
 
 # Bencao Gangmu
 
 Li’s pharmacopeia, the _Bencao gangmu_ had several drafts by the late 1570s; the published work contained 1,892 entries: 1,094 botanicals, 444 zoological items, 275 minerals, and 79 miscellaneous items. [^5] Li’s bibliography consisted of a little under 1,000 sources, many of which weren’t included in previous texts. He also included many items China had received from trade, like grapes, carrots, pumpkins, yams, Panax pseudo-ginseng (also known as Himalayan or Nepal ginseng), Yasmin, tulips, and camphor. [^12] Some of these materials were from regions that weren’t formerly a part of the Chinese empire, either northwest or southwest, while others came through internationally. Even drugs like Opium and Theriac were mentioned in the pharmacopeia because of its growing popularity in China. There are 11,096 recipes and treatment methods and 1,094 drugs are made of plants. Li’s bencao, which took over 30 years of his life, was finished in 1587. [^12]
 
-
 <param ve-image 
        label="Bencao gangmu" 
-       description="Pages from the _Bencao gangmu_" 
+       description="Pages from the Bencao gangmu" 
        license="public domain" 
-       url="https://commons.wikimedia.org/wiki/File:Bencao_Gangmu_33-36.jpg">
+       url="https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg">
        
 ## Wang Shizhen
 
 Wang’s relationship with Li had the biggest impact on the publication of the _Bencao Gangmu_. Wang was a popular scholar during the 16th century. He was popular with the elite class and held high positions of power after passing the highest level of the exams in 1567. [^5] While having major political influence in China throughout his life, he also was a major figure in the literary sphere in Beijing. He was also one of the key leaders in a literary movement known as the, gu wenci, or the English equivalent, the Archaist Movement. [^12] His relationship with Li was nonexistent before Li asked him to write a preface for the _Bencao Gangmu_. [^11] Wang used beautifully illustrated poetry, comparisons between Li and other scholars, and mentioned his education and source of research to create a powerful image of Li. This recreation of Li’s reputation had a large impact on the future of the _Bencao Gangmu_, while Wang’s involvement created the initial popularity and influenced its marketing throughout China and eventually the rest of the world. 
 
 <param ve-image 
-       label="Bencao gangmu" 
-       description="pages from the Bencao gangmu" 
+       label="Ancient City" 
+       description="Painting of an ancient city" 
        license="public domain" 
-       url="https://commons.wikimedia.org/wiki/File:Compendium_of_Materia_Medica.png">
+       url="https://www.mpiwg-berlin.mpg.de/sites/default/files/styles/content_central_image/public/2018-06/qing_pharmacy_1_jpg.jpg?itok=q6W0iKIZ">
 
 ## Globalization
 
@@ -90,22 +89,22 @@ King Sejong’s reign (r. 1418-1450) led to an even further development of Korea
 <param ve-entity eid="Q37682"> <!-- King Sejong -->
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Dongui Bogam"
+       description="Volumes of Dongui Bogam; a Korean pharmacopeia" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://www.korea.net/upload/content/editImage/Dongui_Bogam_Series_Photo_02.jpg">
        
 ### _Japan_ 
-Present-day scholars like Matthias Hayek believed Japan’s immediate interest and adoption of the _Bencao Gangmu_ interrupted Japan fully grasping Western science, which was also being introduced at the time as “Dutch studies,” or rangaku, beginning 1741. [^6] This was seen as a “limitation” because the Japanese were believed to be “blindly following” Chinese medicinal scholars and prevented them from continuing to be “on par with Western science.” However, similar to Korea, the decline of Japan’s local medical knowledge can be blamed on Neo-Confucian government officials. Kaibara Ekiken, a Japanese Neo-Confucian philosopher, created a new field of research that made the _Bencao gangmu_ obsolete and was held to a high standard until the end of the 18th century. 
+Present-day scholars like Matthias Hayek believed Japan’s immediate interest and adoption of the _Bencao Gangmu_ interrupted Japan fully grasping Western science, which was also being introduced at the time as “Dutch studies,” or rangaku, beginning 1741. [^6] This was seen as a “limitation” because the Japanese were believed to be “blindly following” Chinese medicinal scholars and prevented them from continuing to be “on par with Western science.” [^6] However, similar to Korea, the decline of Japan’s local medical knowledge can be blamed on Neo-Confucian government officials. Kaibara Ekiken, a Japanese Neo-Confucian philosopher, created a new field of research that made the _Bencao gangmu_ obsolete and was held to a high standard until the end of the 18th century. 
 
 <param ve-entity eid="Q877637"> <!-- Rangaku -->
 <param ve-entity eid="Q1721396"> <!-- Kaibara Ekiken -->
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Book of Nature" 
+       description="Japanese pharmacopeiar" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://i0.wp.com/historyofknowledge.net/wp-content/uploads/2018/05/cocoa-jap.jpg?resize=656%2C300&ssl=1">
        
 ## Comparing Ancient Texts  
 
@@ -115,12 +114,12 @@ Chinese medical knowledge had been globalized before the publication of the _Ben
 <param ve-entity eid="Q3704131"> <!-- De Materia Medica -->
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="De Materia Medica" 
+       description="pages from De Materia Medica" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/5/52/Dioscorides_De_Materia_Medica_Byzantium_15th_century.jpg">
        
-## Modern-day Research Using Li's Work  
+## Modern-day Research  
 
 Present-day researchers have also used Li’s work in more current studies. A group of researchers in 2014 studied traditional Chinese medicine to treat modern-day urinary disorders in women. The focus of the trial was to stop Recurring Urinary Tract Infections (RUTIs). The trial was set to be a “double-blind, randomized, placebo-controlled feasibility study involving 80 women, aged between 18 to 65, taking Chinese herbs over a 16-week period.” [^2] The Chinese herbs that would be key ingredients in their trials were found under the term _lin_ in ancient texts: a key term used to describe urinary disorders. However, _lin_ was hard for the team to find because the ancient term was originally _long_. Practitioners like Chen Yan, a 12th-century medical author, realized “_Lin_ was anciently known as _long_,” the main term to describe urinary disorders. [^2] The change from lin to long was the result of an imperial naming prohibition. _Long_ was too similar to the late infant emperor Han Shangdi’s (105-106 CE) personal name _Liu Long_. The Song and Ming periods show the reappearance of _long_, alongside _lin_, specifically in Li’s bencao as he referenced _lin_ 700 times, compared to the 50 times he referenced _long_. [^2]
 
@@ -128,10 +127,10 @@ Present-day researchers have also used Li’s work in more current studies. A gr
 <param ve-entity eid="Q221668"> <!-- Recurring Urinary Tract Infections -->
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="UTI Symptom Chart" 
+       description="chart of UTI symptoms" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://www.verywellhealth.com/thmb/ttR_zt7Kz6YRttJBVYydcDgp-qw=/1000x1500/filters:no_upscale():max_bytes(150000):strip_icc()/urinary-tract-infections-overview-3520507-sketch-FINAL-fab0ff5c6aab400ba4200b3417149979-8c169633a8714e798ec22891baf10189.png">
 
 ## Map
 
@@ -141,6 +140,11 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 # Conclusion
 There was a lot of interest in science and medical practice during the 17th and 18th centuries in East Asia because of scientific developments in China. Chinese scholars were at the forefront of the scientific movement in East Asia and Li’s _Bencao gangmu_ was a key point to the furthering of its development. China’s dominance in medical knowledge is a clear indication of a Scientific Revolution brewing in East Asia. Historians and scientific scholars should acknowledge Li for being the leader behind it all.
 
+<param ve-image 
+       label="Li Shizhen" 
+       description="statue of Li Shizhen" 
+       license="public domain" 
+       url="https://www.cmaconweb.org/articles/2018/1/3/images/ChinMedCult_2018_1_3_116_249586_f7.jpg">
 
 ## Multiple viewers
 
