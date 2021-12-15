@@ -15,7 +15,7 @@
 
 Many historians and scientists alike have gone back and forth, debating on whether or not Asia had a Scientific Revolution as significant as the western Scientific Revolution, however, Li Shizhen’s _Bencao gangmu_ seems to be the leading force in creating a large shift in Asian participation in local medicine. Li’s work has not only created a standard for medical information, but it also influenced other East Asian countries to partake and create other local pharmacopeias and supplemental work. Li’s educational background along with the resources he obtained through work, allowed him to create a well-polished and accessible text while globalizing Chinese medicine by including foreign and local materials that weren’t already publicly available. Li and his _Bencao gangmu_ were the leading cause of Asian involvement in science during the 17th and 18th centuries and should be noted as one of the leaders of the Scientific Revolution in East Asia. 
 
-<param ve-entity eid="Q816658"> <!-- Bencao Gangmu -->
+<param ve-entity eid="Q816658"> <!-- Bencao gangmu -->
 <param ve-entity eid="Q698925"> <!-- Li Shizhen -->
 
 <!-- This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org). -->
@@ -46,7 +46,7 @@ Li Shizhen, or Li Dongbi, was born in 1518 in Qizhou, Huguang (today’s Qichun,
  
 His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Prince of Chu, at the local branch of the imperial family. [^5] Around 1550, Li was appointed Superintendent of Sacrifices at Zhu’s court in Wuchang. Soon after, he was appointed to the Imperial Medical Academy in the capital. He eventually moved back home to continue his medical practice, research, and start writing the _Bencao Gangmu_. 
 
-<param ve-entity eid=""> <!-- Prince Zhu -->
+<param ve-entity eid=""> <!-- Zhu Yingxian[g] -->
 <param ve-entity eid="Q1014420"> <!-- Wuchang -->
 
 <param ve-image 
@@ -106,7 +106,7 @@ King Sejong’s reign (r. 1418-1450) led to an even further development of Korea
        url="https://www.korea.net/upload/content/editImage/Dongui_Bogam_Series_Photo_02.jpg">
        
 ### _Japan_ 
-Present-day scholars like Matthias Hayek believed Japan’s immediate interest and adoption of the _Bencao Gangmu_ interrupted Japan fully grasping Western science, which was also being introduced at the time as “Dutch studies,” or rangaku, beginning 1741. [^6] This was seen as a “limitation” because the Japanese were believed to be “blindly following” Chinese medicinal scholars and prevented them from continuing to be “on par with Western science.” [^6] However, similar to Korea, the decline of Japan’s local medical knowledge can be blamed on Neo-Confucian government officials. Kaibara Ekiken, a Japanese Neo-Confucian philosopher, created a new field of research that made the _Bencao gangmu_ obsolete and was held to a high standard until the end of the 18th century. 
+Present-day scholars like Matthias Hayek believed Japan’s immediate interest and adoption of the _Bencao Gangmu_ interrupted Japan fully grasping Western science, which was also being introduced at the time as “Dutch studies,” or _rangaku_, beginning 1741. [^6] This was seen as a “limitation” because the Japanese were believed to be “blindly following” Chinese medicinal scholars and prevented them from continuing to be “on par with Western science.” [^6] However, similar to Korea, the decline of Japan’s local medical knowledge can be blamed on Neo-Confucian government officials. Kaibara Ekiken, a Japanese Neo-Confucian philosopher, created a new field of research that made the _Bencao gangmu_ obsolete and was held to a high standard until the end of the 18th century. 
 
 <param ve-entity eid="Q877637"> <!-- Rangaku -->
 <param ve-entity eid="Q1721396"> <!-- Kaibara Ekiken -->
