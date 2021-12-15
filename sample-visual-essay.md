@@ -58,8 +58,9 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
  ## Map
 Labeled are key locations in Li's life. These locations include: Li's hometown, Wuchan and Beijing where he worked, Nanjing is where he met Wang Shizhen and his bencao was published, and finally his deathplace. 
 
-<param ve-map center="35.818, 114.543" zoom="6" stroke-width="0" show-labels> 
-<param ve-map-layer geojson active title="Li's Travels" url="geojson/litravels.json">
+<param ve-map center="35.818, 114.543" zoom="6" stroke-width="0" show-labels>
+<param ve-map-layer geojson url="/geojson/litravels.json" title="litravels" active> 
+
     
 # Bencao Gangmu
 
@@ -141,11 +142,6 @@ Present-day researchers have also used Li’s work in more current studies. A gr
        description="chart of UTI symptoms" 
        license="public domain" 
        url="https://www.verywellhealth.com/thmb/ttR_zt7Kz6YRttJBVYydcDgp-qw=/1000x1500/filters:no_upscale():max_bytes(150000):strip_icc()/urinary-tract-infections-overview-3520507-sketch-FINAL-fab0ff5c6aab400ba4200b3417149979-8c169633a8714e798ec22891baf10189.png">
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 # Conclusion
 There was a lot of interest in science and medical practice during the 17th and 18th centuries in East Asia because of scientific developments in China. Chinese scholars were at the forefront of the scientific movement in East Asia and Li’s _Bencao gangmu_ was a key point to the furthering of its development. China’s dominance in medical knowledge is a clear indication of a Scientific Revolution brewing in East Asia. Historians and scientific scholars should acknowledge Li for being the leader behind it all.
