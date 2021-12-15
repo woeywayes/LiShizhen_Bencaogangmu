@@ -80,7 +80,7 @@ Wang’s relationship with Li had the biggest impact on the publication of the _
        label="Ancient City" 
        description="Painting of an ancient city" 
        license="public domain" 
-       url="https://textimgs.s3.amazonaws.com/boundless-world-history/sbmzrmjzr5gkuzqw7fhp.jpe">
+       url="https://www.asianart.com/israel/large/10.jpg">
 
 ## Globalization
 
