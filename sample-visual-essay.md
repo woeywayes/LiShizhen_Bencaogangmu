@@ -58,12 +58,9 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
  ## Map
 Here is the region, Qichun, Li grew up in and where he comes back to after he serves in Beijing. Li also begins his research for the Bencao Gangmu. 
 
-<param ve-map center="35.818, 114.543" zoom="6" show-labels> 
-<param ve-map-layer geojson active title=Li's Travels url=https://geojson.io/#map=6/35.221/116.359
-     
-
-
-
+<param ve-map center="35.818, 114.543" zoom="6" stroke-width="0" show-labels> 
+<param ve-map-layer geojson active title=Li's Travels url=https://geojson.io/#map=6/35.221/116.359>
+    
 # Bencao Gangmu
 
 Li’s pharmacopeia, the _Bencao gangmu_ had several drafts by the late 1570s; the published work contained 1,892 entries: 1,094 botanicals, 444 zoological items, 275 minerals, and 79 miscellaneous items. [^5] Li’s bibliography consisted of a little under 1,000 sources, many of which weren’t included in previous texts. He also included many items China had received from trade, like grapes, carrots, pumpkins, yams, Panax pseudo-ginseng (also known as Himalayan or Nepal ginseng), Yasmin, tulips, and camphor. [^12] Some of these materials were from regions that weren’t formerly a part of the Chinese empire, either northwest or southwest, while others came through internationally. Even drugs like Opium and Theriac were mentioned in the pharmacopeia because of its growing popularity in China. There are 11,096 recipes and treatment methods and 1,094 drugs are made of plants. Li’s bencao, which took over 30 years of his life, was finished in 1587. [^12]
