@@ -58,7 +58,14 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
  ## Map
 
 Here is the region, Qichun, Li grew up in and where he comes back to after he serves in Beijing. Li also begins his research for the Bencao Gangmu. 
-<param ve-map center="Q1199313" zoom="11" prefer-geojson>       
+<param ve-map-layer 
+       center="Q1199313" 
+       zoom="11" 
+       prefer-geojson
+       show-labels
+       
+       
+       >       
 
 
 
