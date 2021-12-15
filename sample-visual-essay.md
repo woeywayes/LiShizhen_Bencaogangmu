@@ -62,10 +62,7 @@ Here is the region, Qichun, Li grew up in and where he comes back to after he se
        center="Q1199313" 
        zoom="11" 
        prefer-geojson
-       show-labels
-       
-       
-       >       
+       show-labels>       
 
 
 
