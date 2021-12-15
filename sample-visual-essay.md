@@ -42,11 +42,6 @@ Li Shizhen, or Li Dongbi, was born in 1518 in Qizhou, Huguang (today’s Qichun,
        license="public domain" 
        url="https://mtchina.it/blog/wp-content/uploads/2020/11/Li-Shizhen-Sage-of-Medicine-and-Pharmacy-who-is-Li-shizhen-article-1574298848.jpg">
        
-## Map
-
-Here is the region Li grew up in and where he comes back to after he serves in Beijing. 
-<param ve-map center="Q1199313" zoom="11" prefer-geojson>       
-       
 ## Work
  
 His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Prince of Chu, at the local branch of the imperial family. [^5] Around 1550, Li was appointed Superintendent of Sacrifices at Zhu’s court in Wuchang. Soon after, he was appointed to the Imperial Medical Academy in the capital. He eventually moved back home to continue his medical practice, research, and start writing the _Bencao Gangmu_. 
@@ -59,6 +54,13 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
        description="Painting from the Ming Dynasty" 
        license="public domain" 
        url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnx7Tpbypp9LaZJBbgQ36td0eKF075n73Sw&usqp=CAU">
+       
+ ## Map
+
+Here is the region, Qichun, Li grew up in and where he comes back to after he serves in Beijing. Li also begins his research for the Bencao Gangmu. 
+<param ve-map center="Q1199313" zoom="11" prefer-geojson>       
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#9eb4e5","marker-size":"medium","marker-symbol":"village","name ":"Qizhou, Huguang"},"geometry":{"type":"Point","coordinates":[115.5706787109375,30.455776769374857]}},{"type":"Feature","properties":{"marker-color":"#000000","marker-size":"medium","marker-symbol":"town-hall","name":"Wichang"},"geometry":{"type":"Point","coordinates":[114.27429199218749,30.585908257485578]}},{"type":"Feature","properties":{"marker-color":"#000000","marker-size":"medium","marker-symbol":"city","name":"Beijing"},"geometry":{"type":"Point","coordinates":[116.3946533203125,39.905522539728544]}},{"type":"Feature","properties":{"marker-color":"#000000","marker-size":"medium","marker-symbol":"cemetery","name":"Li's Grave"},"geometry":{"type":"Point","coordinates":[115.2111999,30.246]}},{"type":"Feature","properties":{"marker-color":"#000000","marker-size":"medium","marker-symbol":"library","name":"Li meets Wang"},"geometry":{"type":"Point","coordinates":[118.46,32.3]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[115.57617187499999,30.467614102257855],[114.2578125,30.581179257386985],[116.3232421875,39.90973623453719],[115.5377197265625,30.467614102257855],[118.45458984375,32.310348764525806],[115.51025390625,30.496017831341284],[115.20263671874999,30.259067203213018]]}}]}
+
 
 # Bencao Gangmu
 
