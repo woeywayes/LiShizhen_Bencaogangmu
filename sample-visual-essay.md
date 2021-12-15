@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Li Shizhen's Impact on the Bencao Gangmu" 
+       title="Li Shizhen's Impact on the _Bencao Gangmu_" 
        author="Joey Hayes"
        banner="https://upload.wikimedia.org/wikipedia/commons/d/d9/Li_Shizhen.jpg" 
        layout="vertical">
@@ -16,7 +16,10 @@
 
 # Overview
 
-This visual essay will discuss Li Shizhen's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge. 
+This visual essay will discuss Li Shizhen's approach to abtaining the information that was placed in the _Bencao Gangmu_, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge. 
+
+The Needham Question (“Did Asia have a Scientific Revolution?”) has put western science at the forefront of scientific development. Many historians and scientists alike have gone back and forth, debating on whether or not Asia had a Scientific Revolution as significant as the western Scientific Revolution, however, Li Shizhen’s _Bencao gangmu_ seems to be the leading force in creating a large shift in Asian participation in local medicine.Li’s work has not only created a standard for medical information, but it also influenced other East Asian countries to partake and create other local pharmacopeias and supplemental work. Li’s educational background along with the resources he obtained through work, allowed him to create a well-polished and accessible text while globalizing Chinese medicine by including foreign and local materials that weren’t already publicly available. Li and his _Bencao gangmu_ were the leading cause of Asian involvement in science during the 17th and 18th centuries and should be noted as one of the leaders of the Scientific Revolution in East Asia. 
+
 
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
@@ -35,7 +38,7 @@ Li Shizhen, or Li Dongbi, was born in 1518 in Qizhou, Huguang (today’s Qichun,
        
 ## Work
 
-His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Prince of Chu, at the local branch of the imperial family. Around 1550, Li was appointed Superintendent of Sacrifices at Zhu’s court in Wuchang. Soon after, he was appointed to the Imperial Medical Academy in the capital. He eventually moved back home to continue his medical practice and research. 
+His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Prince of Chu, at the local branch of the imperial family. Around 1550, Li was appointed Superintendent of Sacrifices at Zhu’s court in Wuchang. Soon after, he was appointed to the Imperial Medical Academy in the capital. He eventually moved back home to continue his medical practice, research, and start writing the _Bencao Gangmu_. 
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
@@ -44,7 +47,7 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
 
 # Bencao Gangmu
 
-Li’s pharmacopeia had several drafts by the late 1570s; the published work contained 1,892 entries: 1,094 botanicals, 444 zoological items, 275 minerals, and 79 miscellaneous items. Li’s bibliography consisted of a little under 1,000 sources, many of which weren’t included in previous texts. He also included many items China had received from trade, like grapes, carrots, pumpkins, yams, Panax pseudo-ginseng (also known as Himalayan or Nepal ginseng), Yasmin, tulips, and camphor. Some of these materials were from regions that weren’t formerly a part of the Chinese empire, either northwest or southwest, while others came through internationally. Even drugs like Opium and Theriac were mentioned in the pharmacopeia because of its growing popularity in China. There are 11,096 recipes and treatment methods and 1,094 drugs are made of plants. Li’s bencao, which took over 30 years of his life, was finished in 1587. 
+Li’s pharmacopeia, the _Bencao gangmu_ had several drafts by the late 1570s; the published work contained 1,892 entries: 1,094 botanicals, 444 zoological items, 275 minerals, and 79 miscellaneous items. Li’s bibliography consisted of a little under 1,000 sources, many of which weren’t included in previous texts. He also included many items China had received from trade, like grapes, carrots, pumpkins, yams, Panax pseudo-ginseng (also known as Himalayan or Nepal ginseng), Yasmin, tulips, and camphor. Some of these materials were from regions that weren’t formerly a part of the Chinese empire, either northwest or southwest, while others came through internationally. Even drugs like Opium and Theriac were mentioned in the pharmacopeia because of its growing popularity in China. There are 11,096 recipes and treatment methods and 1,094 drugs are made of plants. Li’s bencao, which took over 30 years of his life, was finished in 1587. 
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
@@ -53,7 +56,7 @@ Li’s pharmacopeia had several drafts by the late 1570s; the published work con
        
 ## Wang Shizhen
 
-Wang’s relationship with Li had the biggest impact on the publication of the Bencao Gangmu. Wang was a popular scholar during the 16th century. He was popular with the elite class and held high positions of power after passing the highest level of the exams in 1567. While having major political influence in China throughout his life, he also was a major figure in the literary sphere in Beijing. He was also one of the key leaders in a literary movement known as the, gu wenci, or the English equivalent, the Archaist Movement. His relationship with Li was nonexistent before Li asked him to write a preface for the Bencao Gangmu. Wang used beautifully illustrated poetry, comparisons between Li and other scholars, and mentioned his education and source of research to create a powerful image of Li. This recreation of Li’s reputation had a large impact on the future of the Bencao Gangmu, while Wang’s involvement created the initial popularity and influenced its marketing throughout China and eventually the rest of the world. 
+Wang’s relationship with Li had the biggest impact on the publication of the _Bencao Gangmu_. Wang was a popular scholar during the 16th century. He was popular with the elite class and held high positions of power after passing the highest level of the exams in 1567. While having major political influence in China throughout his life, he also was a major figure in the literary sphere in Beijing. He was also one of the key leaders in a literary movement known as the, gu wenci, or the English equivalent, the Archaist Movement. His relationship with Li was nonexistent before Li asked him to write a preface for the _Bencao Gangmu_. Wang used beautifully illustrated poetry, comparisons between Li and other scholars, and mentioned his education and source of research to create a powerful image of Li. This recreation of Li’s reputation had a large impact on the future of the _Bencao Gangmu_, while Wang’s involvement created the initial popularity and influenced its marketing throughout China and eventually the rest of the world. 
 
 <param ve-image 
        label="Girl with a Pearl Earring" 
@@ -63,7 +66,7 @@ Wang’s relationship with Li had the biggest impact on the publication of the B
 
 ## Globalization
 
-Chinese medicine, and specifically Li’s bencao, influenced future generations to take different approaches to medicine and medicinal practices. From Zhao Xuemin in China who focuses on local medicinal knowledge, to scholars in Japan and Korea who focus on creating their local medicinal pharmacopeia and expanding their local herbal knowledge, Li’s Bencao gangmu lit a fire under young scholars. Japan and Korea were two countries that relied on traditional Chinese medicine more than their own. After the publication of Li’s pharmacopeia, Japan and Korea were inspired to further their medical practices by focusing on local materials and creating pharmacopeias based on their local medical knowledge and materials. Although both countries heavily relied on Chinese knowledge, Li’s and many other medical scholars’ work influenced them to create their own presence. 
+Chinese medicine, and specifically Li’s bencao, influenced future generations to take different approaches to medicine and medicinal practices. From Zhao Xuemin in China who focuses on local medicinal knowledge, to scholars in Japan and Korea who focus on creating their local medicinal pharmacopeia and expanding their local herbal knowledge, Li’s _Bencao gangmu_ lit a fire under young scholars. Japan and Korea were two countries that relied on traditional Chinese medicine more than their own. After the publication of Li’s pharmacopeia, Japan and Korea were inspired to further their medical practices by focusing on local materials and creating pharmacopeias based on their local medical knowledge and materials. Although both countries heavily relied on Chinese knowledge, Li’s and many other medical scholars’ work influenced them to create their own presence. 
 
 <param ve-image 
        label="Girl with a Pearl Earring" 
@@ -71,8 +74,8 @@ Chinese medicine, and specifically Li’s bencao, influenced future generations 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
        
-### _Korea 
-King Sejong’s reign (r. 1418-1450) led to an even further development of Korean pharmacopeias by creating “materia medica for offering to the king,” which led to the development of the herbal drug market and promoted local botanicals. In the end, Korean medicinal education came to a halt as Ming China started to release a lot of medical material.King Seongjong (r. 1469-1494) in Korea, used state projects to promote local botanicals that had begun to decline. His interest in Daoism and Neo-Confucian led to an even greater decline of local Korean medicine, and once again relied on traditional Chinese medicine because it followed Neo-Confucian ideals. 
+### _Korea_ 
+King Sejong’s reign (r. 1418-1450) led to an even further development of Korean pharmacopeias by creating “materia medica for offering to the king,” which led to the development of the herbal drug market and promoted local botanicals. In the end, Korean medicinal education came to a halt as Ming China started to release a lot of medical material. King Seongjong (r. 1469-1494) in Korea, used state projects to promote local botanicals that had begun to decline. His interest in Daoism and Neo-Confucian led to an even greater decline of local Korean medicine, and once again relied on traditional Chinese medicine because it followed Neo-Confucian ideals. 
 
 <param ve-image 
        label="Girl with a Pearl Earring" 
@@ -80,8 +83,8 @@ King Sejong’s reign (r. 1418-1450) led to an even further development of Korea
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
        
-### _Japan 
-Present-day scholars like Matthias Hayek believed Japan’s immediate interest and adoption of the Bencao Gangmu interrupted Japan fully grasping Western science, which was also being introduced at the time as “Dutch studies,” or rangaku, beginning 1741. This was seen as a “limitation” because the Japanese were believed to be “blindly following” Chinese medicinal scholars and prevented them from continuing to be “on par with Western science.” However, similar to Korea, the decline of Japan’s local medical knowledge can be blamed on Neo-Confucian government officials. Kaibara Ekiken, a Japanese Neo-Confucian philosopher, created a new field of research that made the Bencao gangmu obsolete and was held to a high standard until the end of the 18th century. 
+### _Japan_ 
+Present-day scholars like Matthias Hayek believed Japan’s immediate interest and adoption of the _Bencao Gangmu_ interrupted Japan fully grasping Western science, which was also being introduced at the time as “Dutch studies,” or rangaku, beginning 1741. This was seen as a “limitation” because the Japanese were believed to be “blindly following” Chinese medicinal scholars and prevented them from continuing to be “on par with Western science.” However, similar to Korea, the decline of Japan’s local medical knowledge can be blamed on Neo-Confucian government officials. Kaibara Ekiken, a Japanese Neo-Confucian philosopher, created a new field of research that made the _Bencao gangmu_ obsolete and was held to a high standard until the end of the 18th century. 
 
 <param ve-image 
        label="Girl with a Pearl Earring" 
@@ -91,7 +94,7 @@ Present-day scholars like Matthias Hayek believed Japan’s immediate interest a
        
 ## Comparing Ancietnt Texts  
 
-Chinese medical knowledge had been globalized before the publication of the Bencao gangmu, but the amount of information has always been scarce and inconclusive when passed around in Western countries. Researchers have looked to see how Chinese medicinal knowledge has traveled globally in the past. A semi-recent study compared Pedanius Dioscorides, a 1st century AD Greek practitioner, and his pharmacopeia, De Materia Medica (1AD), to Li’s Bencao gangmu.  Researchers noticed Dioscordes’ collection of natural materials included Chinese herbs but lacked specific origin information/location. These herbals: Spikenard (India), Cassia (India), Cassia (Arabia), Sweet flag (India), Japanese rose (Unknown), Apricot (Armenia), Cucumber (Unknown), Rhubarb (Black Sea), Caper spurge (Unknown), only acknowledges India, Arabia, the Black Sea, and Armenia. These regions were known to be their “origin” most likely because of their proximity to the Silk Road and the places where Mediterranean people had the most interaction with these herbals. However, it's most likely these places traded with China or were introduced to them by Chinese travelers. Although Dioscorides lacked basic general knowledge of the location of some of these foreign natural substances and might’ve lost or not have known how to appropriately use these herbals, he was definitely on the right track. 
+Chinese medical knowledge had been globalized before the publication of the _Bencao gangmu_, but the amount of information has always been scarce and inconclusive when passed around in Western countries. Researchers have looked to see how Chinese medicinal knowledge has traveled globally in the past. A semi-recent study compared Pedanius Dioscorides, a 1st century AD Greek practitioner, and his pharmacopeia, _De Materia Medica_ (1AD), to Li’s _Bencao gangmu_.  Researchers noticed Dioscordes’ collection of natural materials included Chinese herbs but lacked specific origin information/location. These herbals: Spikenard (India), Cassia (India), Cassia (Arabia), Sweet flag (India), Japanese rose (Unknown), Apricot (Armenia), Cucumber (Unknown), Rhubarb (Black Sea), Caper spurge (Unknown), only acknowledges India, Arabia, the Black Sea, and Armenia. These regions were known to be their “origin” most likely because of their proximity to the Silk Road and the places where Mediterranean people had the most interaction with these herbals. However, it's most likely these places traded with China or were introduced to them by Chinese travelers. Although Dioscorides lacked basic general knowledge of the location of some of these foreign natural substances and might’ve lost or not have known how to appropriately use these herbals, he was definitely on the right track. 
 
 <param ve-image 
        label="Girl with a Pearl Earring" 
@@ -113,6 +116,10 @@ Present-day researchers have also used Li’s work in more current studies. A gr
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
+# Conclusion
+There was a lot of interest in science and medical practice during the 17th and 18th centuries in East Asia because of scientific developments in China. Chinese scholars were at the forefront of the scientific movement in East Asia and Li’s _Bencao gangmu_ was a key point to the furthering of its development. China’s dominance in medical knowledge is a clear indication of a Scientific Revolution brewing in East Asia. Historians and scientific scholars should acknowledge Li for being the leader behind it all.
+
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
@@ -122,4 +129,16 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Álvarez, José Antonio Cantón. “Globalisation Interrupted? The Case of Opium in the Circulation of Medical Knowledge in Ming Dynasty China.” Journal of the Economic and Social History of the Orient 60, no. 4 (2017): 524–48.] http://www.jstor.org/stable/26426433.
+[^2]: [Barrett, Penelope, Andrew Flower, and Vivienne Lo. “What’s past is prologue: Chinese medicine and the treatment of recurrent urinary tract infections.” Journal of Ethnopharmacology no. 167 (2015): 86-96.] https://doi.org/10.1016/j.jep.2014.11.014. 
+[^3]: [“Ben Cao Gang Mu (《本草纲目》 Compendium of Materia Medica): United Nations Educational, Scientific and Cultural Organization.” Memory of the World, United Nations Educational, Scientific and Cultural Organization, 2010.] http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/register/full-list-of-registered-heritage/registered-heritage-page-1/ben-cao-gang-mu-compendium-of-materia-medica/.
+[^4]: [Hammond, Kenneth J. “Wang Shizhen and Li Shizhen: Archaism and Early Scientific Thought in Sixteenth-Century China.” In Antiquarianism and Intellectual Life in Europe and China, 1500-1800, 234–49. University of Michigan Press, 2012.] http://www.jstor.org/stable/10.3998/mpub.3992087.14.
+[^5]: [Hayek, Matthias. “One the Reception and Uses of Li Shizhen’s Classified Materia Medica (Bencao gangmu) in 17th-century Japan: Test, Categories, Pictures.” Studies in Japanese Literature and Culture, no. 4 (March 2021): 95-122.] https://kokubunken.repo.nii.ac.jp/?action=repository_action_common_download&item_id=4208&item_no=1&attribute_id=22&file_no=1.
+[^6]: [Horiuchi, Annick. “Naturalizing Li Shizhen’s Bencao gangmu in Early-modern Japan: The Cases of Honcho shokkan, Yamato honzo, and Wakan sansai zue.” Studies in Japanese and Culture no. 4 (March 2021): 123-146.] https://www.academia.edu/48897607/Naturalizing_Li_Shizhen_s_Bencao_gangmu_in_Early_modern_Japan_The_Cases_of_Honch%C5%8D_shokkan_Yamato_honz%C5%8D_and_Wakan_sansai_zue.
+[^7]: [Jivkova, Kat. “The Impacts of Li Shizhen's Bencao Gangmu.” Retrospect Journal, 18 Apr. 2021.] https://retrospectjournal.com/2021/04/11/the-impacts-of-li-shizhens-bencao-gangmu/. 
+[^8]: [Li, Shizhen. “Compendium of Materia Medica.” WDL RSS, Library of Congress, 1573.] https://www.wdl.org/en/item/4678/.
+[^9]: [Metailie, Georges. “Sources for Modern Botany in China during Qing Dynasty.” Japan Review, no. 4 (1993): 241–49.] http://www.jstor.org/stable/25790931.
+[^10]: [Nappi, Carla. “Bolatu’s Pharmacy Theriac in Early Modern China.” Early Science and Medicine 14, no. 6 (2009): 737–64.] http://www.jstor.org/stable/20617830.
+[^11]: [Nappi, Carla S.. The Monkey and the Inkpot : Natural History and Its Transformations in Early Modern China. Cambridge: Harvard University Press, 2009. ProQuest Ebook Central.] https://ebookcentral.proquest.com/lib/csun/detail.action?docID=3300842# 
+[^12]:[Theobald, Ulrich. “Bencao Gangmu 本草綱目.” ChinaKnowledge.de, 23 Oct. 2010.] http://www.chinaknowledge.de/Literature/Science/bencaogangmu.html. 
+[^13]:[Touwaide, Alain and Emanuela Appetiti. “Searching for Chinese Medicinal Plants in Greek Classical Medicin: A First Approach.” Chinese Medicine and Culture, vo.1, issue 1 (April-June 2018).] https://cmaconweb.org/article.asp?issn=2589-9627;year=2018;volume=1;issue=1;spage=40;epage=45;aulast=Touwaide;type=0. 
