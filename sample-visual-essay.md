@@ -34,10 +34,10 @@ Li Shizhen, or Li Dongbi, was born in 1518 in Qizhou, Huguang (today’s Qichun,
 
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Li Shizhen" 
+       description="Sculpture of Li Shizhen" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://commons.wikimedia.org/wiki/File:Li_Shizhen,_Lingsheng_Temple.jpg">
        
 ## Work
  
@@ -47,10 +47,10 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
 <param ve-entity eid="Q1014420"> <!-- Wuchang -->
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Departured Herald" 
+       description="Painting from the Ming Dynasty" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://commons.wikimedia.org/wiki/File:Departure_Herald-Ming_Dynasty.jpg">
 
 # Bencao Gangmu
 
@@ -67,14 +67,11 @@ Li’s pharmacopeia, the _Bencao gangmu_ had several drafts by the late 1570s; t
 
 Wang’s relationship with Li had the biggest impact on the publication of the _Bencao Gangmu_. Wang was a popular scholar during the 16th century. He was popular with the elite class and held high positions of power after passing the highest level of the exams in 1567. [^5] While having major political influence in China throughout his life, he also was a major figure in the literary sphere in Beijing. He was also one of the key leaders in a literary movement known as the, gu wenci, or the English equivalent, the Archaist Movement. [^12] His relationship with Li was nonexistent before Li asked him to write a preface for the _Bencao Gangmu_. [^11] Wang used beautifully illustrated poetry, comparisons between Li and other scholars, and mentioned his education and source of research to create a powerful image of Li. This recreation of Li’s reputation had a large impact on the future of the _Bencao Gangmu_, while Wang’s involvement created the initial popularity and influenced its marketing throughout China and eventually the rest of the world. 
 
-<param ve-entity eid=""> <!-- Wang Shizhen -->
-<param ve-entity eid=""> <!-- Archaist Movement -->
-
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Bencao gangmu" 
+       description="pages from the Bencao gangmu" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://commons.wikimedia.org/wiki/File:Compendium_of_Materia_Medica.png">
 
 ## Globalization
 
