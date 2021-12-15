@@ -51,137 +51,16 @@ His reputation as a skilled healer led him into the court of Zhu Yingxian[g], Pr
 
 <param ve-image 
        label="Li Shizhen" 
-       description="Painting from the Ming Dynasty" 
+       description="Painting of Li Shizhen" 
        license="public domain" 
-       url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnx7Tpbypp9LaZJBbgQ36td0eKF075n73Sw&usqp=CAU">
+       url="https://archive.shine.cn/newsimage//NewsImage/2011/2011-07/2011-07-03/20110703_476008_01.jpg">
        
  ## Map
 Here is the region, Qichun, Li grew up in and where he comes back to after he serves in Beijing. Li also begins his research for the Bencao Gangmu. 
 
 <param ve-map center="35.818, 114.543" zoom="6" stroke-width="0" show-labels> 
-<param ve-map-layer geojson active title="Li's Travels" url="http://geojson.io/#id=gist:woeywayes/27e527cb61de7fe91f056e9b3897e0c4&map=6/35.228/116.367">
-    {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#9eb4e5",
-        "marker-size": "medium",
-        "marker-symbol": "village",
-        "name ": "Qizhou, Huguang"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.5706787109375,
-          30.455776769374857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "town-hall",
-        "name": "Wichang"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.27429199218749,
-          30.585908257485578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "city",
-        "name": "Beijing"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.3946533203125,
-          39.905522539728544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "cemetery",
-        "name": "Li's Grave"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.2111999,
-          30.246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "library",
-        "name": "Li meets Wang"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          118.46,
-          32.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            115.57617187499999,
-            30.467614102257855
-          ],
-          [
-            114.2578125,
-            30.581179257386985
-          ],
-          [
-            116.3232421875,
-            39.90973623453719
-          ],
-          [
-            115.5377197265625,
-            30.467614102257855
-          ],
-          [
-            118.45458984375,
-            32.310348764525806
-          ],
-          [
-            115.51025390625,
-            30.496017831341284
-          ],
-          [
-            115.20263671874999,
-            30.259067203213018
-          ]
-        ]
-      }
-    }
-  ]
-}
+<param ve-map-layer geojson active title="Li's Travels" url="https://gist.github.com/woeywayes/27e527cb61de7fe91f056e9b3897e0c4">
+    
 # Bencao Gangmu
 
 Li’s pharmacopeia, the _Bencao gangmu_ had several drafts by the late 1570s; the published work contained 1,892 entries: 1,094 botanicals, 444 zoological items, 275 minerals, and 79 miscellaneous items. [^5] Li’s bibliography consisted of a little under 1,000 sources, many of which weren’t included in previous texts. He also included many items China had received from trade, like grapes, carrots, pumpkins, yams, Panax pseudo-ginseng (also known as Himalayan or Nepal ginseng), Yasmin, tulips, and camphor. [^12] Some of these materials were from regions that weren’t formerly a part of the Chinese empire, either northwest or southwest, while others came through internationally. Even drugs like Opium and Theriac were mentioned in the pharmacopeia because of its growing popularity in China. There are 11,096 recipes and treatment methods and 1,094 drugs are made of plants. Li’s bencao, which took over 30 years of his life, was finished in 1587. [^12]
